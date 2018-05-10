@@ -1,0 +1,30 @@
+{
+  "name": "reduxexample",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bind": "^0.1.7",
+    "express": "^4.16.3",
+    "mongoose": "^5.0.17",
+    "prop-types": "^15.6.1",
+    "react": "^16.3.2",
+    "react-bootstrap": "^0.32.1",
+    "react-dom": "^16.3.2",
+    "react-redux": "^5.0.7",
+    "react-responsive-modal": "^3.0.0",
+    "react-scripts": "1.1.4",
+    "reactjs-bootstrap-table": "^1.0.12",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.2.0",
+    "uuid": "^3.2.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.4"
+  }
+}
